@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Work_space",
+    "slug": "Work_space",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Work_space"
+}
